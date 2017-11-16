@@ -2,8 +2,9 @@ import React, { Component } from "react";
 import Dimensions from "Dimensions";
 import { StackNavigator } from "react-navigation";
 import usernameImg from "../images/sixty_one.png";
-import logoImg from "../images/logo-drawer.png";
+import logoImg from "../images/hamburger.png";
 import backImg from "../images/backImg.png";
+
 import styles from "../components/Styles";
 import FadeMenuButton from "../core_components/FadeMenuButton";
 import MenuButton from "../core_components/MenuButton";

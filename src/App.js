@@ -22,5 +22,5 @@ const projectStack = StackNavigator({
 //     contentComponent: props => <SldeMenu {...props} />
 //   }
 // );
-
-export default projectStack;
+//export default AppRegistry.registerComponent('projectStack', () => projectStack);
+export default projectStack
